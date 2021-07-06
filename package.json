@@ -1,0 +1,23 @@
+{
+  "name": "@oumimaiko/sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oumimaiko/sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oumimaiko/sample/issues"
+  },
+  "homepage": "https://github.com/Oumimaiko/sample#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.5"
+  }
+}
